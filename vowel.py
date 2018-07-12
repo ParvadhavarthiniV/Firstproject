@@ -1,5 +1,5 @@
 val=input()
-list1=['a','e','i','o','u']
+list1=['a','e','i','o','u','A','E','I','O','U']
 for i in list1:
     if((val<='A' and val>='Z') or (val>='a' and val<='z')):
         if(val==i):
